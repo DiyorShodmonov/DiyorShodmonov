@@ -42,6 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />
+ <img src="https://lh4.googleusercontent.com/-Ft6sZBfS1ojB7Lmqk8PGGpgLZDwaUC2MlRRvBVZbwQLpzOy6aJxrlnvxDfFZRzxgopUm5lRRhwoQ9jEpCzVrSxI77KrUhm-JCl1hFZWTyqqtV-tRN-N63Ng9RUn3mWN4Hz0mEv3=s0" title="Git" alt="Git" width="60" height="60" />
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="Intellij" alt="Intellij" width="50" height="50" style="margin-left:15px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50" style="margin-left:15px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Css" width="50" height="50" style="margin-left:15px"/>
