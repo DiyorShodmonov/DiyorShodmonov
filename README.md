@@ -43,5 +43,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/2560px-Hibernate_logo.svg.png" title="Hibernate" alt="Hibernate" width="50" height="50" style="margin-left:15px"/>
  <img src="https://huongdanjava.com/wp-content/uploads/2021/05/spring-security-logo-1.png" alt="Securty" width="50" height="50" style="margin-left:15px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="Intellij" alt="Intellij" width="50" height="50" style="margin-left:15px"/>
- <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
+ <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbiC4ki9zp4nK5wWJHIP9zuPrYW0OXpItEI_f8LXASNho64e-ct_TRESJ0yn-w78qxjPkAdmP6IY2vV-xmcjv5noZSKrIkmWFhzrNr86PJCIwZWEz0V-qw32f3f-2vORDUkrGBP5J0LuGLo_W3gXUih5iF6g1PRzK-jfT3gQ37LCSaPkjaf1FC60v/w1200-h630-p-k-no-nu/Spring%20data.png" title="JPA" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
 </div>
