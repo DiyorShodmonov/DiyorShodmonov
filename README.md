@@ -13,8 +13,8 @@
   <a href="https://instagram.com/diyorshodmonov1515">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://diyorshodmonov969@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="diyorshodmonov969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=diyorshodmonov969@gmail.com&logoColor=white" alt="diyorshodmonov969@gmail.com Badge"/>
   </a>
 </div>
 
