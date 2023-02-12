@@ -19,7 +19,8 @@
 </div>
 
  <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
-About me:
+
+### About me
 
 - 🧑‍ I am a Java Software developer who is doing his best to achieve full competence in this field from Uzbekistan, Tashkent.![Uzbekistan Badge](https://img.shields.io/badge/-Uzbekistan-green?style=flat&logo=Leetcode&logoColor=black)
 
@@ -32,7 +33,7 @@ About me:
  -->
 <div>
  
- ### Hi there
+ ### SKILLS
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
