@@ -18,7 +18,7 @@
   </a>
 </div>
 
- <img src="https://komarev.com/ghpvc/?username=yusupov06&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=diyorshodmonov&style=flat-square&color=green" alt=""/>
 <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 ### About me
