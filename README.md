@@ -19,7 +19,7 @@
 </div>
 
 
- <img src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC]">
+ <img src="https://www.shutterstock.com/ru/image-vector/rocket-coding-logo-icon-programmer-vector-1694056399">
 
 
 ### About me
