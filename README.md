@@ -40,7 +40,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />
- <img src="https://images-platform.99static.com/PACD2hnT6jJyTBK16UrijNGbbSs=/0x0:960x960/500x500/top/smart/99designs-contests-attachments/81/81240/attachment_81240942" title="Hibernate" alt="Hibernate" width="50" height="50" style="margin-left:15px"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/2560px-Hibernate_logo.svg.png" title="Hibernate" alt="Hibernate" width="50" height="50" style="margin-left:15px"/>
  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" title="Junit5" alt="Junit5" width="50" height="50" style="margin-left:15px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="Intellij" alt="Intellij" width="50" height="50" style="margin-left:15px"/>
  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
