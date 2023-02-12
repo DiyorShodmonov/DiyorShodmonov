@@ -36,15 +36,23 @@
  ### SKILLS
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/2560px-Hibernate_logo.svg.png" title="Hibernate" alt="Hibernate" width="50" height="50" style="margin-left:15px"/>
+ 
+ <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbiC4ki9zp4nK5wWJHIP9zuPrYW0OXpItEI_f8LXASNho64e-ct_TRESJ0yn-w78qxjPkAdmP6IY2vV-xmcjv5noZSKrIkmWFhzrNr86PJCIwZWEz0V-qw32f3f-2vORDUkrGBP5J0LuGLo_W3gXUih5iF6g1PRzK-jfT3gQ37LCSaPkjaf1FC60v/w1200-h630-p-k-no-nu/Spring%20data.png" title="JPA" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Hibernate_logo.svg/2560px-Hibernate_logo.svg.png" title="Hibernate" alt="Hibernate" width="50" height="50" style="margin-left:15px"/>
+ 
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" title="Intellij" alt="Intellij" width="50" height="50" style="margin-left:15px"/>
- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbiC4ki9zp4nK5wWJHIP9zuPrYW0OXpItEI_f8LXASNho64e-ct_TRESJ0yn-w78qxjPkAdmP6IY2vV-xmcjv5noZSKrIkmWFhzrNr86PJCIwZWEz0V-qw32f3f-2vORDUkrGBP5J0LuGLo_W3gXUih5iF6g1PRzK-jfT3gQ37LCSaPkjaf1FC60v/w1200-h630-p-k-no-nu/Spring%20data.png" title="JPA" alt="VSCode" width="50" height="50" style="margin-left:15px"/>
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50" style="margin-left:15px"/>
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Css" width="50" height="50" style="margin-left:15px"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="Css" width="50" height="50" style="margin-left:15px"/>
 </div>
