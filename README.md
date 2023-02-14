@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/discipline_969">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/diyorshodmonov1515">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="diyorshodmonov969@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=diyorshodmonov969@gmail.com&logoColor=white" alt="diyorshodmonov969@gmail.com Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=diyorshodmonov969@gmail.com&logoColor=white" alt="diyorshodmonov969@gmail.com Badge"/>
   </a>
 </div>
 
