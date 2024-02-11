@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/diyor-shodmonov-8372b6238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/discipline_969">
+  <a href="https://t.me/discipline1515">
     <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/diyorshodmonov1515">
